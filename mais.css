@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+body {
+    text-align: center;
+    background-color: rgb(119, 162, 197);
+
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+    color: linen;
+}
+
+img {
+    border-style: solid;
+    border-color: slategray;
+}
